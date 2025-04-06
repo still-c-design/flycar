@@ -91,7 +91,6 @@ public class GameTimer : MonoBehaviour
         Debug.Log("Game Over!");
         SceneManager.LoadScene("CarGameOverScene");
         // ここにゲームオーバー時の処理を追加
-        // 例：シーンをリロード、ゲームオーバー画面を表示など
     }
 
 }
